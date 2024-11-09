@@ -1,0 +1,13 @@
+/*
+Theme Name: A2 Your Username
+Theme URI: http://example.com
+Author: Your Name
+Author URI: http://example.com
+Description: Basic WordPress Theme based on HTML mockup
+Version: 1.0
+License: GPL2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: a2-your-username
+template: twentyeleven
+*/
+@import url(../twentyeleven/style.css);
